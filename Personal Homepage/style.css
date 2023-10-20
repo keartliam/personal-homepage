@@ -1,0 +1,20 @@
+/* style1.css */
+
+body {
+    font-family: Georgia, serif; color: #666; font-size: 14px; font-style: italic;
+}
+
+.highlight-word-color{
+    color: #ffc200;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.footer {
+    font-family: Georgia, serif; color: #666; font-size: 14px; font-style: italic;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+}
